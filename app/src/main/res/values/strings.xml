@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Prueba de Ingreso</string>
+    <string name="searchUser">Buscar usuario</string>
+    <string name="show_posts">Ver Publicaciones</string>
+    <string name="loading">Cargando…</string>
+    <string name="connection_error">Error de Conexión</string>
+    <string name="list_is_empty">La lista está vacía</string>
+</resources>
